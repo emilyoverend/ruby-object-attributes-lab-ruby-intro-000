@@ -1,4 +1,4 @@
-Class Dog 
+Class Dog
 
 def name
   Fido
